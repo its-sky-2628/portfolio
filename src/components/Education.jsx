@@ -77,7 +77,7 @@ const Education = () => {
     <h3>Secondary School (Class X)</h3>
     <p style={{ marginTop: "10px", color: "#94a3b8" }}>
       P.N National Public School
-      <h4 style={{ marginTop: "10px" }}>Percentage:76%</h4>
+      <h4 style={{ marginTop: "10px" }}>Percentage:98%</h4>
     </p>
   </div>
 </div>
