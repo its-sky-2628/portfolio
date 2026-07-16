@@ -31,7 +31,7 @@ const About = () => {
           style={{
             color: "#94a3b8",
             lineHeight: "35px",
-            fontSize: "18px",
+            fontSize: "20px",
             textAlign: "left",
           }}
         >
