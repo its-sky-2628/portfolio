@@ -28,37 +28,39 @@ const About = () => {
         }}
       >
         <p
-          style={{
-            color: "#94a3b8",
-            lineHeight: "35px",
-            fontSize: "20px",
-            textAlign: "left",
-          }}
-        >
-          I am Shreyansh Yadav, a B.Tech Data Science student at
-          GL Bajaj Institute of Technology & Management with a
-          strong passion for Full-Stack Development and modern
-          web technologies.
+  style={{
+    color: "#94a3b8",
+    lineHeight: "35px",
+    fontSize: "20px",
+    textAlign: "left",
+  }}
+>
+  I'm Shreyansh Yadav, currently pursuing a B.Tech in Computer Science
+  (Data Science) at GL Bajaj Institute of Technology & Management,
+  Greater Noida.
 
-          <br /><br />
+  <br /><br />
 
-          I specialize in building scalable, responsive, and
-          user-centric web applications using React.js, Node.js,
-          Express.js, and MongoDB.
+  I enjoy building software that is simple, practical and easy to use.
+  Most of my work has been focused on web development, where I've built
+  projects using React.js, Node.js, Express.js and MongoDB while learning
+  how complete applications are designed and developed.
 
-          <br /><br />
+  <br /><br />
 
-          Over time, I have developed projects such as
-          ExperienceHub, Student Performance Analyser,
-          Expense Tracker and Portfolio Websites that focus on
-          solving real-world challenges through technology.
+  Along the way, I've worked on projects like ExperienceHub,
+  Student Performance Analyser, Expense Tracker and this portfolio website.
+  Each project has helped me improve my problem-solving skills and understand
+  different aspects of software development.
 
-          <br /><br />
+  <br /><br />
 
-          My mission is to build impactful software products
-          that solve real-world problems and create meaningful
-          user experiences through technology.
-        </p>
+  At present, I'm expanding my knowledge beyond web development by learning
+  Artificial Intelligence and Machine Learning. My goal is to build software
+  that combines modern web technologies with intelligent systems to solve
+  real-world problems.
+</p>
+
       </div>
     </section>
   );
