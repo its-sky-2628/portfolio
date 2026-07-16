@@ -27,8 +27,11 @@ const Hero = () => {
 
         <h2>
           Software Engineer
+          </h2>
+          <br></br>
+          <h3>
           Building intelligent and scalable applications.
-        </h2>
+        </h3>
 
         <p className="hero-description">
           I'm a B.Tech Computer Science (Data Science) student who enjoys
