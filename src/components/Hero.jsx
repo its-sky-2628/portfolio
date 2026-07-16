@@ -26,7 +26,8 @@ const Hero = () => {
         </h1>
 
         <h2>
-          Full Stack Developer
+          Software Engineer
+          Building intelligent and scalable applications.
         </h2>
 
         <p className="hero-description">
